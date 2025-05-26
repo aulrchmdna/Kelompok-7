@@ -1,13 +1,13 @@
 # LAPORAN TUGAS AKHIR PRAKTIKUM PEMROGRAMAN WEB : PERPUSTAKAAN
  
 DISUSUN OLEH :
-Jenar Mahesa Putri
+- Jenar Mahesa Putri
 L200230038
-Luthfia Martha Puspita
+- Luthfia Martha Puspita
 L200230064
-Olga Paramartha Sani
+- Olga Paramartha Sani
 L200230065
-Aulia Rachmadina 
+- Aulia Rachmadina 
 L200230074
   
 TEKNIK INFORMATIKA
