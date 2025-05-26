@@ -189,29 +189,6 @@ Membuat file kode landing
 Membuat file kode daftar buku perpustakaan untuk admin
 Membuat file kode edit dan hapus buku untuk admin  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 BAB III
 PENUTUP
 
@@ -223,13 +200,3 @@ Pengembangan aplikasi perpustakaan berbasis web merupakan inovasi yang sangat pe
 Pengembangan ini bisa digunakan khalayak umum
 Peningkatan fitur dan menambahkan fitur 
 Pengembangan ke aplikasi Mobile untuk meningkatkan aksesibilitas bagi pengguna yang lebih simple menggunakan perangkat seluler.
-
-
-
-
-
-
-
-
-
-
