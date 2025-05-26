@@ -134,6 +134,8 @@ PENUTUP
 3.1 Kesimpulan 
 Pengembangan aplikasi perpustakaan berbasis web merupakan inovasi yang sangat penting dalam menghadapi tantangan akses layanan perpustakaan secara langsung, seperti keterbatasan waktu dan lokasi. Sistem ini memungkinkan pengguna, terutama mahasiswa, untuk mengakses katalog dan layanan perpustakaan secara online kapan saja dan di mana saja melalui perangkat yang terkoneksi internet, sehingga meningkatkan fleksibilitas dan kenyamanan bagi pengguna. 
 
+Secara keseluruhan, aplikasi perpustakaan berbasis web ini memberi manfaat besar dalam meningkatkan efisiensi pengelolaan koleksi dan layanan, serta memberikan kenyamanan dan fleksibilitas bagi pengguna. Sistem ini tidak hanya memudahkan akses dan pengelolaan buku, tetapi juga membantu menjaga disiplin pengembalian melalui fitur pembayaran denda otomatis, sehingga sistem pengelolaan perpustakaan menjadi lebih modern, efektif, dan responsif terhadap kebutuhan pengguna di era digital saat ini
+
 3.2 Saran Pengembangan
 1. Untuk pengembangan lebih lanjut, beberapa saran yang dapat dipertimbangkan adalah:
 2. Pengembangan ini bisa digunakan khalayak umum
