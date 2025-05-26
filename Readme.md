@@ -15,25 +15,6 @@ FAKULTAS KOMUNIKASI DAN INFORMATIKA
 UNIVERSITAS MUHAMMADIYAH SURAKARTA
 2024/2025
 
-DAFTAR ISI
-BAB I	3
-PENDAHULUAN	3
-1.1 Latar Belakang	3
-1.2 Tujuan pembuatan aplikasi	3
-BAB II	5
-PEMBAHASAN	5
-2.1 Deskripsi Aplikasi	5
-2.2 Fitur-fitur utama	5
-2.3 Teknologi yang digunakan	5
-2.4 Cara instalasi dan menjalankan aplikasi	5
-2.5 Screenshot aplikasi untuk setiap fitur utama	5
-2.6 Manual penggunaan aplikasi	5
-2.7 Pembagian Tugas Anggota Kelompok	6
-BAB III	7
-PENUTUP	7
-3.1 Kesimpulan	7
-3.2 Saran Pengembangan	7
-
 BAB I
 PENDAHULUAN
 
@@ -63,7 +44,6 @@ Fitur utama yang digunakan adalah sebagai berikut :
 1. Katalog buku 
 2. Peminjaman buku
 3. Pengembalian buku dan perhitungan denda
-
 
 2.3 Teknologi yang Digunakan
 
@@ -128,15 +108,18 @@ Anggota 1 : Jenar Mahesa Putri (L200230038)
  - Membuat file kode landing 
  - Membuat file kode daftar buku perpustakaan untuk admin
  - Menyempurnakan file kode edit dan hapus buku untuk admin
-  Anggota 2 : Luthfia Martha Puspita (L200230064)
+ 
+ Anggota 2 : Luthfia Martha Puspita (L200230064)
  - Membuat laporan
  - Membuat file kode sistem peminjaman dan pengembalian buku
  - Menyempurnakan File kode sistem peminjaman dan pengembalian buku.
  - Membuat file kode koleksi buku populer
+   
 Anggota 3 : Olga Paramartha Sani (L200230065)
  - Membuat Laporan
  - Membuat file kode koleksi buku populer
- - Menyempurnakan file kode koleksi buku populer 
+ - Menyempurnakan file kode koleksi buku populer
+   
 Anggota 4 : Aulia Rachmadina (L200230074)
  - Pembuatan kode 
  - Penentuan tema
