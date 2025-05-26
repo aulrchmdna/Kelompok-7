@@ -122,29 +122,28 @@ cara menggunakan aplikasi dengan efektif
 Pembagian tugas dalam pengembangan aplikasi ini dilakukan untuk memaksimalkan  
 efisiensi dan hasil akhir. Berikut adalah pembagian tugas anggota kelompok :   
 Anggota 1 : Jenar Mahesa Putri (L200230038)
-- Membuat kode 
-- Membuat PPT
-- Membuat file kode login perpustakaan
-- Membuat file kode landing 
-- Membuat file kode daftar buku perpustakaan untuk admin
-- Menyempurnakan file kode edit dan hapus buku untuk admin  
-Anggota 2 : Luthfia Martha Puspita (L200230064)
-- Membuat laporan
-- Membuat file kode sistem peminjaman dan pengembalian buku
-- Menyempurnakan File kode sistem peminjaman dan pengembalian buku.
-- Membuat file kode koleksi buku populer
+ - Membuat kode 
+ - Membuat PPT
+ - Membuat file kode login perpustakaan
+ - Membuat file kode landing 
+ - Membuat file kode daftar buku perpustakaan untuk admin
+ - Menyempurnakan file kode edit dan hapus buku untuk admin
+  Anggota 2 : Luthfia Martha Puspita (L200230064)
+ - Membuat laporan
+ - Membuat file kode sistem peminjaman dan pengembalian buku
+ - Menyempurnakan File kode sistem peminjaman dan pengembalian buku.
+ - Membuat file kode koleksi buku populer
 Anggota 3 : Olga Paramartha Sani (L200230065)
-- Membuat Laporan
-- Membuat file kode koleksi buku populer
-- Menyempurnakan file kode koleksi buku populer 
-- Membuat PPT
+ - Membuat Laporan
+ - Membuat file kode koleksi buku populer
+ - Menyempurnakan file kode koleksi buku populer 
 Anggota 4 : Aulia Rachmadina (L200230074)
-- Pembuatan kode 
-- Penentuan tema
-- Membuat file kode login perpustakaan
-- Membuat file kode landing 
-- Membuat file kode daftar buku perpustakaan untuk admin
-- Membuat file kode edit dan hapus buku untuk admin  
+ - Pembuatan kode 
+ - Penentuan tema
+ - Membuat file kode login perpustakaan
+ - Membuat file kode landing 
+ - Membuat file kode daftar buku perpustakaan untuk admin
+ - Membuat file kode edit dan hapus buku untuk admin  
 
 BAB III
 PENUTUP
