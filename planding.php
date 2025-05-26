@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Database connection for checking login state
+
 $host = 'localhost';
 $db   = 'perpustakaan';
 $user = 'root';
@@ -175,3 +175,5 @@ $loggedIn = isset($_SESSION['user']);
     </footer>
 </body>
 </html>
+
+#tess
